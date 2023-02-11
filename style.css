@@ -12,7 +12,7 @@ text-decoration: none ;
 .container{
     height: 100%;
     display: grid;
-    grid-template-rows: 60px 420px 840px auto;
+    grid-template-rows: 60px 420px 840px 20px;
 }
 
 .zone {
